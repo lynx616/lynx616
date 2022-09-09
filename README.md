@@ -1,4 +1,8 @@
 <p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=435&lines=Hey+bugs!%E2%98%95" max-width="202px">
+
+<p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" max-width="500px"/>
 </p>
 
