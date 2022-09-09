@@ -27,3 +27,12 @@
 		
 	
  ```
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lynx616&theme=city-lights&hide_border=true&date_format=%5BY.%5Dn.j&stroke=53DD25&currStreakNum=DD2727&dates=DD30A9" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://activity-graph.herokuapp.com/graph?username=lynx616&theme=react-dark" align="left" style="width: 100%" />
+
+</td></tr></table> 
