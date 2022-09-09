@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" max-width="500px"/>
+</p>
+
+
+
 ```python
  class WhoAmI:
  	user = 'Rudra Karmakar'
