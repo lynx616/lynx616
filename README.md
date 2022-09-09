@@ -16,11 +16,11 @@
 				'Carrom Pool',
 				'Netfilx && Chill',
 				'Workout❤️'
-				''
+				'Implement/Design Cool CSS'
 			]
 	
 	def getCity():
-		return midnapore_India()
+		return Midnapore_India()
 	
 	def Ambitions():
 		LearnJapanese()
