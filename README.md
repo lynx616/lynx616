@@ -31,7 +31,7 @@
 	    MERN Stack Developer()
 	    Kaggle Expert()
     def NewInterests():
-        return ['', 'Learning CSS3', 'Web Development']
+        return ['Web Development','JS', 'SCSS', 'REACT','NODE']
     
 		
 		
