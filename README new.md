@@ -1,15 +1,18 @@
 ### Hello! I'm Rudra Karmakar
-A self-taught developer from Medinipur,India who loves to work with React, Javascript, Sass.
+A full-stack developer from Medinipur,India who loves to work with React, Javascript, Sass.
 
-Other than coding, I love watching [Movies]([https://anilist.co/user/piyushsthr/](https://primewire.mx/movie/watch-taxi-driver-online-19066)), doing workout and playing football.
+Other than coding, I love watching [movies](https://primewire.mx/tv/watch-taxi-driver-online-69220), doing workout and playing football.
 
 
 <details>
 
   <summary>Github Stats 📊</summary>
   
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushsuthar&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Piyush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsuthar&layout=compact&theme=vue&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div align="left">
+  <br>
+  <img src="https://streak-stats.demolab.com?user=lynx616&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lynx616&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
   
   
 </details>
@@ -35,15 +38,15 @@ Other than coding, I love watching [Movies]([https://anilist.co/user/piyushsthr/
 
   <summary>Currently listening 🎶</summary>
   
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem"/>
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31j6ci5cimyszwhd3dabx7ko3q3u&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31j6ci5cimyszwhd3dabx7ko3q3u&cover_image=true&theme=novatorem"/>
   </a>
 </details>
 
 <details>
   <summary>Let's connect 🤝</summary>
   
-  | <a align="center" href="https://twitter.com/piyushsthr"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"> @PiyushSthr</a> | <a href="https://discord.com/users/441955841260912650"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"> Piyush Suthar#4113</a> |
+  | <a align="center" href="https://instagram.com/_rxz_10_?igshid=MzNlNGNkZWQ4Mg=="><img align="center" width="20" src="https://www.cdnlogo.com/logos/i/4/instagram.svg"> @RUDRA</a> | <a href="https://www.linkedin.com/mwlite/in/rudra-karmakar-b31a2b232"><img align="center" width="20" src="https://www.cdnlogo.com/logos/l/66/linkedin-icon.svg"> Rudra Karmakar</a> |
 |---|---|
   
  </details>
@@ -55,3 +58,36 @@ Other than coding, I love watching [Movies]([https://anilist.co/user/piyushsthr/
 |---|
   
   </details>
+
+  <details open>
+  <summary>SKills & Softwares</summary><br>
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
+</div>
+ </details>
