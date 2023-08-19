@@ -1,7 +1,7 @@
 ### Hello! I'm Rudra Karmakar
 A full-stack developer from Medinipur,India who loves to work with React, Javascript, Sass.
 
-Other than coding, I love watching [movies](https://primewire.mx/tv/watch-taxi-driver-online-69220), doing workout and playing football.
+Other than coding, I love watching [movies](https://primewire.mx/movie/watch-taxi-driver-online-19066), doing workout and playing football.
 
 
 <details>
@@ -16,22 +16,9 @@ Other than coding, I love watching [movies](https://primewire.mx/tv/watch-taxi-d
   
   
 </details>
-<!-- 
-<details>
-  <summary>wanna talk?</summary>
 
-  - **Twitter** = [@piyushsthr](https://twitter.com/piyushsthr)
-  - **Discord** = [`Piyush Suthar#4113`](https://discord.com/users/441955841260912650)
-</details>
 
-<details> -->
 
-<!--   <summary>projects i'm proud of:-</summary>
-
-  - [windows 11 web](https://github.com/PiyushSuthar/Windows-11-Web)
-  - [clpy](https://github.com/PiyushSuthar/clpy)
-  - [toolzar](https://github.com/PiyushSuthar/toolzar)
-</details> -->
 
 
 <details open>
