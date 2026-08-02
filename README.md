@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rudra%20Karmakar&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=BC6FF1&center=true&vCenter=true&width=560&lines=React+%2B+JavaScript+%2B+Sass+Developer;Building+on+Azure+%26+Azure+DevOps;Football+%F0%9F%8F%88+%7C+Gym+%F0%9F%8F%8B+%7C+Movie+Buff+%F0%9F%8E%AC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=BC6FF1&center=true&vCenter=true&width=560&lines=React+%2B+JavaScript+%2B+Sass+Developer;Building+on+Azure+%26+Azure+DevOps;Football+%F0%9F%8F%88+%7C+Gym+%F0%9F%8F%8B+%7C+Movie+Buff+%F0%9F%8E%AC" alt="Typing SVG" />
 
 </div>
 
@@ -66,13 +66,17 @@ fun_fact: "190+ LeetCode problems solved and counting"
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lynx616&show_icons=true&theme=dracula&hide_border=false&border_radius=10&count_private=true" height="165" alt="stats graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lynx616&theme=dracula&hide_border=false&border_radius=10" height="165" alt="streak graph"/>
+  <img src="https://streak-stats.demolab.com/?user=lynx616&theme=dracula&hide_border=false&border_radius=10" height="165" alt="streak graph"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynx616&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&border_radius=10" height="165" alt="languages graph"/>
   <img src="https://github-profile-trophy.vercel.app/?username=lynx616&theme=dracula&no-frame=true&no-bg=false&margin-w=8&row=2&column=3" height="165" alt="trophies"/>
 </div>
+<!-- If the trophy card shows blank, the shared public instance is rate-limited/paused (a known, ongoing issue).
+     Swap in a volunteer mirror instead, e.g.:
+     https://github-profile-trophy-liard-delta.vercel.app/?username=lynx616&theme=dracula
+     https://github-profile-trophy-winning.vercel.app/?username=lynx616&theme=dracula -->
 
 <br>
 
