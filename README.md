@@ -4,41 +4,50 @@
 
 ### Frontend Developer • Azure Cloud • DevOps Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=React+Developer;Azure+Cloud+Engineer;Building+Modern+Web+Applications;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Azure+Cloud+Engineer;React+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
 
-<img src="https://komarev.com/ghpvc/?username=lynx616&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=lynx616&label=Profile+Views&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
 ```yaml
-Name: Rudra Karmakar
+name: Rudra Karmakar
 
-Role:
-  Frontend Developer @ TCS
+role:
+  Frontend Developer @ Tata Consultancy Services
 
-Working On:
+location:
+  Kolkata, India
+
+education:
+  B.Tech Information Technology
+  Jalpaiguri Government Engineering College
+
+currently_working_on:
   - React Applications
   - Azure App Services
-  - Azure DevOps Pipelines
-  - CI/CD Automation
+  - Azure DevOps
+  - CI/CD Pipelines
 
-Currently Learning:
+currently_learning:
   - Terraform
   - Kubernetes
   - AWS
 
-Education:
-  B.Tech Information Technology
-  Jalpaiguri Government Engineering College
+interests:
+  - Photography
+  - Football
+  - Gym
+  - Movies
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 
@@ -58,58 +67,70 @@ Education:
 <img src="https://skillicons.dev/icons?i=azure,docker,terraform,git,github,vscode"/>
 </p>
 
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,premiere"/>
+</p>
+
 ---
 
-# 💼 Featured Projects
+# 🚀 Featured Projects
 
 | Project | Description |
-|---------|-------------|
+|----------|-------------|
 | 🚀 New Connections SPA | Migrated legacy SPA to Azure App Services with Azure DevOps |
 | 🔐 Identity Profile API | Secure deployment using Managed Identity |
-| 🎬 MovHead | Movie search app built with React & RapidAPI |
 | ⚡ EasyQuote | React application for customer quotation management |
+| 🎬 MovHead | Movie search application built using React and RapidAPI |
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Activity
 
-<div align="center">
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=lynx616&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lynx616&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lynx616&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynx616&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lynx616&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🌟 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynx616&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=lynx616&theme=tokyonight&column=4&no-frame=true"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=lynx616&theme=tokyonight&no-frame=true&column=4"/>
+---
 
-</div>
+# 📊 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/lynx616">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/mwlite/in/rudra-karmakar-b31a2b232">
+<a href="https://www.linkedin.com/in/rudra-karmakar-b31a2b232/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -117,12 +138,24 @@ Education:
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
+</p>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
 </div>
 
 ---
 
 <div align="center">
 
-> *"First solve the problem. Then write the code."*
+### ⚡ Fun Fact
+
+💙 I enjoy building modern web applications, automating deployments, and continuously learning cloud technologies.
 
 </div>
