@@ -79,10 +79,9 @@ interests:
 
 | Project | Description |
 |----------|-------------|
+| ⚡ EasyQuote | React application for customer quotation management |
 | 🚀 New Connections SPA | Migrated legacy SPA to Azure App Services with Azure DevOps |
 | 🔐 Identity Profile API | Secure deployment using Managed Identity |
-| ⚡ EasyQuote | React application for customer quotation management |
-| 🎬 MovHead | Movie search application built using React and RapidAPI |
 
 ---
 
